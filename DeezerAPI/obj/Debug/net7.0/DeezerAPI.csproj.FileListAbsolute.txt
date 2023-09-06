@@ -1,0 +1,17 @@
+D:\EPITA\C#\DeezerAPI\DeezerAPI\obj\Debug\net7.0\DeezerAPI.csproj.AssemblyReference.cache
+D:\EPITA\C#\DeezerAPI\DeezerAPI\obj\Debug\net7.0\DeezerAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPITA\C#\DeezerAPI\DeezerAPI\obj\Debug\net7.0\DeezerAPI.AssemblyInfoInputs.cache
+D:\EPITA\C#\DeezerAPI\DeezerAPI\obj\Debug\net7.0\DeezerAPI.AssemblyInfo.cs
+D:\EPITA\C#\DeezerAPI\DeezerAPI\obj\Debug\net7.0\DeezerAPI.csproj.CoreCompileInputs.cache
+D:\EPITA\C#\DeezerAPI\DeezerAPI\bin\Debug\net7.0\DeezerAPI.exe
+D:\EPITA\C#\DeezerAPI\DeezerAPI\bin\Debug\net7.0\DeezerAPI.deps.json
+D:\EPITA\C#\DeezerAPI\DeezerAPI\bin\Debug\net7.0\DeezerAPI.runtimeconfig.json
+D:\EPITA\C#\DeezerAPI\DeezerAPI\bin\Debug\net7.0\DeezerAPI.dll
+D:\EPITA\C#\DeezerAPI\DeezerAPI\bin\Debug\net7.0\DeezerAPI.pdb
+D:\EPITA\C#\DeezerAPI\DeezerAPI\obj\Debug\net7.0\DeezerAPI.dll
+D:\EPITA\C#\DeezerAPI\DeezerAPI\obj\Debug\net7.0\refint\DeezerAPI.dll
+D:\EPITA\C#\DeezerAPI\DeezerAPI\obj\Debug\net7.0\DeezerAPI.pdb
+D:\EPITA\C#\DeezerAPI\DeezerAPI\obj\Debug\net7.0\DeezerAPI.genruntimeconfig.cache
+D:\EPITA\C#\DeezerAPI\DeezerAPI\obj\Debug\net7.0\ref\DeezerAPI.dll
+D:\EPITA\C#\DeezerAPI\DeezerAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\EPITA\C#\DeezerAPI\DeezerAPI\obj\Debug\net7.0\DeezerAPI.csproj.CopyComplete
